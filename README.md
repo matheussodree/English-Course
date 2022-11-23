@@ -22,3 +22,5 @@ English language course
   I'm fine too , thank you / Estou bem também , obrigado(a) 
 
   How are you doing ? / Como vai? 
+
+  Hi , how is it going ? / Oi , tudo bom ? 
