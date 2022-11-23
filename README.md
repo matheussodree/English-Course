@@ -20,3 +20,5 @@ English language course
   I'm good , and you ? / Estou bem , e você ?
   
   I'm fine too , thank you / Estou bem também , obrigado(a) 
+
+  How are you doing ? / Como vai? 
