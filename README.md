@@ -24,3 +24,5 @@ English language course
   How are you doing ? / Como vai? 
 
   Hi , how is it going ? / Oi , tudo bom ? 
+
+  Hey , what's up ? / Oi , tudo bom ?
