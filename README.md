@@ -26,3 +26,5 @@ English language course
   Hi , how is it going ? / Oi , tudo bom ? 
 
   Hey , what's up ? / Oi , tudo bom ?
+
+* Introducing yourself / Apresentando-se
