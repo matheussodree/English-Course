@@ -28,3 +28,7 @@ English language course
   Hey , what's up ? / Oi , tudo bom ?
 
 * Introducing yourself / Apresentando-se
+
+  Hi , I'm Matheus / Oi , sou o Matheus
+  
+  Nice to meet you / Prazer em conhecê-lo(a) 
