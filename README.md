@@ -35,4 +35,4 @@ English language course
   
   I'm glad to know you / Prazer em conhecê-lo(a)
   
-  Nice to meet you too / Prazer é meu 
+  Nice to meet you too / O prazer é meu 
