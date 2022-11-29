@@ -32,3 +32,5 @@ English language course
   Hi , I'm Matheus / Oi , sou o Matheus
   
   Nice to meet you / Prazer em conhecê-lo(a) 
+  
+  I'm glad to know you / Prazer em conhecê-lo(a)
