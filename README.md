@@ -40,3 +40,5 @@ English language course
   * Personal questions
   
   Where are you from ? / De onde você é ? 
+  
+  What's your phone number ? / Qual é seu número de telefone ? 
