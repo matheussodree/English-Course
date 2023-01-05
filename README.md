@@ -44,3 +44,5 @@ English language course
   What's your phone number ? / Qual é seu número de telefone ? 
   
   I'm from Brazil ! / Eu sou do Brasil !
+  
+  My phone number is 33218181 / Meu número de telefone é 33218181
