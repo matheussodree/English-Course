@@ -42,3 +42,5 @@ English language course
   Where are you from ? / De onde você é ? 
   
   What's your phone number ? / Qual é seu número de telefone ? 
+  
+  I'm from Brazil ! / Eu sou do Brasil !
