@@ -36,8 +36,8 @@ English language course
   I'm glad to know you / Prazer em conhecê-lo(a)
   
   Nice to meet you too / O prazer é meu 
-  
-  * Personal questions
+
+* Personal questions
   
   Where are you from ? / De onde você é ? 
   
@@ -46,3 +46,5 @@ English language course
   I'm from Brazil ! / Eu sou do Brasil !
   
   My phone number is 33218181 / Meu número de telefone é 33218181
+  
+  What's your e-mail address ? / Qual é o seu endereço de e-mail ? 
