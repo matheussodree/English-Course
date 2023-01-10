@@ -45,6 +45,6 @@ English language course
   
   I'm from Brazil ! / Eu sou do Brasil !
   
-  My phone number is 33218181 / Meu número de telefone é 33218181
+  My phone number is ... / Meu número de telefone é ...
   
   What's your e-mail address ? / Qual é o seu endereço de e-mail ? 
