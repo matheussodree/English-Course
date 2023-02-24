@@ -50,3 +50,5 @@ English language course
   What's your e-mail address ? / Qual é o seu endereço de e-mail ? 
   
   How do you spell that ? / Como você soletra isso ? 
+  
+  * Subject Pronouns 
