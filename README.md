@@ -52,3 +52,7 @@ English language course
   How do you spell that ? / Como você soletra isso ? 
   
   * Subject Pronouns 
+  
+  I / Eu - He / Ele - She / Ela - It / Isto
+  
+  We / Nós - You / Você , Vocês - They / Eles , Elas 
