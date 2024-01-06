@@ -68,3 +68,5 @@ English language course
   She is - Ela é / Ela está
 
   It is - Isto é / Isto está  
+
+  They are - Eles são / Eles estão
