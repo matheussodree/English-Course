@@ -58,8 +58,13 @@ English language course
   We / Nós - You / Você , Vocês - They / Eles , Elas
 
 * To be
+  
   I am - Eu sou / Eu estou
+  
   You are - Você(s) é (são) / Você(s) está (estão)
+
   He is - Ele é / Ele está
+
   She is - Ela é / Ela está
-  it is - Isto é / Isto está  
+
+  It is - Isto é / Isto está  
