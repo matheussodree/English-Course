@@ -70,3 +70,15 @@ English language course
   It is - Isto é / Isto está  
 
   They are - Eles são / Eles estão
+
+  I am your teacher - Eu sou seu professor
+
+  She is my wife - Ela é minha esposa
+
+  He is my friend - Ele é meu amigo
+
+  It is hot today - Está quente hoje
+
+  They are sick - Eles estão doentes
+
+  You are my students - Vocês são meus alunos
