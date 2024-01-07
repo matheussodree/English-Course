@@ -1,7 +1,7 @@
 # English-Course
 English language course
 
-* Greetings / Cumprimentos
+* __Greetings / Cumprimentos__
   
   Good morning / Bom dia  
   
@@ -27,7 +27,7 @@ English language course
 
   Hey , what's up ? / Oi , tudo bom ?
 
-* Introducing yourself / Apresentando-se
+* __Introducing yourself / Apresentando-se__
 
   Hi , I'm Matheus / Oi , sou o Matheus
   
@@ -37,7 +37,7 @@ English language course
   
   Nice to meet you too / O prazer é meu 
 
-* Personal questions
+* __Personal questions__
   
   Where are you from ? / De onde você é ? 
   
@@ -51,13 +51,13 @@ English language course
   
   How do you spell that ? / Como você soletra isso ? 
   
-* Subject Pronouns 
+* __Subject Pronouns__ 
   
   I / Eu - He / Ele - She / Ela - It / Isto
   
   We / Nós - You / Você , Vocês - They / Eles , Elas
 
-* To be
+* __To be__
   
   I am - Eu sou / Eu estou
   
