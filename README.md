@@ -82,3 +82,15 @@ English language course
   They are sick - Eles estão doentes
 
   You are my students - Vocês são meus alunos
+
+  She's his wife - Ela é a esposa dele
+
+  He's my boss - Ele é meu chefe
+
+  It's raining - Está chovendo
+
+  We're playing soccer - Nós estamos jogando futebol
+
+  They're sick - Eles estão doentes
+
+  You're learning English - Vocês estão aprendendo Inglês
