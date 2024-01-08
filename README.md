@@ -53,9 +53,9 @@ English language course
   
 * __Subject Pronouns__ 
   
-  I / Eu - He / Ele - She / Ela - It / Isto
+  I - Eu / He - Ele / She - Ela / It - Isto
   
-  We / Nós - You / Você , Vocês - They / Eles , Elas
+  We - Nós / You - Você (Vocês) / They - Eles (Elas)
 
 * __To be__
   
