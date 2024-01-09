@@ -111,22 +111,22 @@ English language course
 
  * __To be 3__
 
-  Is he my friend? - Ele é meu amigo?
+    Is he my friend? - Ele é meu amigo?
 
-  Is it hot today? - Está quente hoje?
+    Is it hot today? - Está quente hoje?
 
-  Are they here? - Eles estão aqui?
+    Are they here? - Eles estão aqui?
 
-  Are we sick? - Nós estamos doentes?
+    Are we sick? - Nós estamos doentes?
 
-  Are you ok? - Você está bem? 
+    Are you ok? - Você está bem? 
+  
+    Am I your teacher? - Eu sou seu professor?
+  
+    Is she your sister? - Ela é sua irmã?
 
-  Am I your teacher? - Eu sou seu professor?
-
-  Is she your sister? - Ela é sua irmã?
-
-  Is he not your brother? - Ele não é seu irmão?
-
-  Are they not your friends? - Eles não são seus amigos?
-
-  Aren't they your friends? - Eles não são seus amigos?
+    Is he not your brother? - Ele não é seu irmão?
+  
+    Are they not your friends? - Eles não são seus amigos?
+  
+    Aren't they your friends? - Eles não são seus amigos?
