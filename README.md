@@ -94,3 +94,17 @@ English language course
   They're sick - Eles estão doentes
 
   You're learning English - Vocês estão aprendendo Inglês
+
+* __To be 2__
+
+  I'm not your teacher - Eu não sou seu professor
+
+  She's not my wife - Ela não é minha esposa
+
+  He's not my friend - Ele não é meu amigo
+
+  It's not hot today - Não está quente hoje
+
+  They're not here - Eles não estão aqui
+
+  We are not sick - Nós não estamos doentes
