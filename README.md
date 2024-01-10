@@ -11,21 +11,21 @@ English language course
   
   Good night (to say goodbye) / Boa noite (para se despedir)
   
-  Hi - Oi   /  Hello / Olá 
+  Hi - Oi   /  Hello - Olá 
   
-  How are you ? / Como você está ?
+  How are you ? - Como você está ?
   
-  I'm fine / Estou bem 
+  I'm fine - Estou bem 
   
-  I'm good , and you ? / Estou bem , e você ?
+  I'm good , and you ? - Estou bem , e você ?
   
-  I'm fine too , thank you / Estou bem também , obrigado(a) 
+  I'm fine too , thank you - Estou bem também , obrigado(a) 
 
-  How are you doing ? / Como vai? 
+  How are you doing ? - Como vai? 
 
-  Hi , how is it going ? / Oi , tudo bom ? 
+  Hi , how is it going ? - Oi , tudo bom ? 
 
-  Hey , what's up ? / Oi , tudo bom ?
+  Hey , what's up ? - Oi , tudo bom ?
 
 * __Introducing yourself / Apresentando-se__
 
