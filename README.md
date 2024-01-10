@@ -131,32 +131,32 @@ English language course
   
     Aren't they your friends? - Eles não são seus amigos?
 
-   * __Demonstrative Pronouns__
+* __Demonstrative Pronouns__
   
-     This - Este / These - Estes
+   This - Este / These - Estes
 
-     That - Aquele / Those - Aqueles
+   That - Aquele / Those - Aqueles
 
-     This dog - Este cachorro
+   This dog - Este cachorro
 
-     That car - Aquele carro
+   That car - Aquele carro
 
-     These books - Estes livros
+   These books - Estes livros
 
-     Those cars - Aqueles carros
+   Those cars - Aqueles carros
 
-     This is my car - Este é meu carro
+   This is my car - Este é meu carro
 
-     That is my wife - Aquela é minha esposa
+   That is my wife - Aquela é minha esposa
 
-     These are your books - Estes são seus livros
+   These are your books - Estes são seus livros
 
-     Those are your kids - Aqueles são seus filhos
+   Those are your kids - Aqueles são seus filhos
 
-     Are those your kids? - Aqueles são seus filhos?
+   Are those your kids? - Aqueles são seus filhos?
 
-     Is this my car? - Este é meu carro?
+   Is this my car? - Este é meu carro?
 
-     Is that my wife? - Aquela é minha esposa?
+   Is that my wife? - Aquela é minha esposa?
 
-     Are these your books? - Estes são seus livros?
+   Are these your books? - Estes são seus livros?
