@@ -153,6 +153,10 @@ English language course
 
    Those are your kids - Aqueles são seus filhos
 
+* __Possessives Pronouns__
+
+  My - Meu / His - Dele
+
    Are those your kids? - Aqueles são seus filhos?
 
    Is this my car? - Este é meu carro?
