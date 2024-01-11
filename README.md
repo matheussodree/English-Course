@@ -168,3 +168,23 @@ English language course
   Its - disso, daquilo / Our - nosso
 
   Your - seu, seus / Their  - Deles
+
+  Her name is Paula - O nome dela é Paula
+
+  Their names are Fred and Lucy - Os nomes deles são Fred e Lucy
+
+  This is my friend, her name is Sara - Esta é minha amiga, o nome dela é Sara
+
+  This is my husband, his name is George - Este é o meu marido, o nome dele é George
+
+  That is our house - Aquela é a nossa casa
+
+  Those are our kids - Aqueles são nossos filhos
+
+  Is he your husband? - Ele é seu marido?
+
+  Is she his wife? - Ela é esposa dele?
+
+  Are those their books? - Aqueles livros são deles?
+
+  Are these our toys? - Estes são nossos brinquedos? 
