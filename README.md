@@ -198,3 +198,19 @@ English language course
   Their husbands aren't tall - Os maridos delas não são altos
 
   His sister is short - A irmã dele é baixa
+
+  Her brother is chubby - O irmão dela é gordinho
+
+  Their mother is not thin - A mãe deles não é magra
+
+  His cousin is smart - O primo dele é inteligente
+
+  Their teacher is funny - O professor deles é engraçado
+
+  Our doctor is pretty - Nossa médica é bonita
+
+  Is your brother ugly? - Seu irmão é feio?
+
+  Are your friends handsome? - Seus amigos são bonitos?
+
+  Their mother is beatiful - A mãe deles é linda
