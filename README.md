@@ -187,4 +187,14 @@ English language course
 
   Are those their books? - Aqueles livros são deles?
 
-  Are these our toys? - Estes são nossos brinquedos? 
+  Are these our toys? - Estes são nossos brinquedos?
+
+* __Personal characteristics__
+
+  My grandfather is old - Meu avô é velho
+
+  Your uncle isn't young - Seu tio não é jovem
+
+  Their husbands aren't tall - Os maridos delas não são altos
+
+  His sister is short - A irmã dele é baixa
