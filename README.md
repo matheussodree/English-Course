@@ -214,3 +214,19 @@ English language course
   Are your friends handsome? - Seus amigos são bonitos?
 
   Their mother is beatiful - A mãe deles é linda
+
+* __Days of Week / Month__
+
+  Monday - Segunda / Tuesday - Terça / Wednesday - Quarta
+
+  Thursday - Quinta / Friday - Sexta / Saturday - Sábado
+
+  Sunday - Domingo / Week - Semana / Weekend - Final de Semana
+
+  January - Janeiro / February - Fevereiro / March - Março
+
+  April - Abril / May - Maio / June - Junho / July - Julho
+
+  August - Agosto / September - Setembro / October - Outubro
+
+  November - Novembro / December - Dezembro
