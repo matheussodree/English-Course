@@ -29,27 +29,27 @@ English language course
 
 * __Introducing yourself / Apresentando-se__
 
-  Hi , I'm Matheus / Oi , sou o Matheus
+  Hi , I'm Matheus - Oi , sou o Matheus
   
-  Nice to meet you / Prazer em conhecê-lo(a) 
+  Nice to meet you - Prazer em conhecê-lo(a) 
   
-  I'm glad to know you / Prazer em conhecê-lo(a)
+  I'm glad to know you - Prazer em conhecê-lo(a)
   
-  Nice to meet you too / O prazer é meu 
+  Nice to meet you too - O prazer é meu 
 
 * __Personal questions__
   
-  Where are you from ? / De onde você é ? 
+  Where are you from ? - De onde você é ? 
   
-  What's your phone number ? / Qual é seu número de telefone ? 
+  What's your phone number ? - Qual é seu número de telefone ? 
   
-  I'm from Brazil ! / Eu sou do Brasil !
+  I'm from Brazil ! - Eu sou do Brasil !
   
-  My phone number is ... / Meu número de telefone é ...
+  My phone number is ... - Meu número de telefone é ...
   
-  What's your e-mail address ? / Qual é o seu endereço de e-mail ? 
+  What's your e-mail address ? - Qual é o seu endereço de e-mail ? 
   
-  How do you spell that ? / Como você soletra isso ? 
+  How do you spell that ? - Como você soletra isso ? 
   
 * __Subject Pronouns__ 
   
