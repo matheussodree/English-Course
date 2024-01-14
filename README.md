@@ -3,13 +3,13 @@ English language course
 
 * __Greetings / Cumprimentos__
   
-  Good morning / Bom dia  
+  Good morning - Bom dia  
   
-  Good afternoon / Boa tarde 
+  Good afternoon - Boa tarde 
  
-  Good evening / Boa noite 
+  Good evening - Boa noite 
   
-  Good night (to say goodbye) / Boa noite (para se despedir)
+  Good night (to say goodbye) - Boa noite (para se despedir)
   
   Hi - Oi   /  Hello - Olá 
   
