@@ -230,3 +230,13 @@ English language course
   August - Agosto / September - Setembro / October - Outubro
 
   November - Novembro / December - Dezembro
+
+* __Colors__
+
+  Blue - Azul / Red - Vermelho / Yellow - Amarelo / Green - Verde
+
+  Brown - Marrom / White - Branco / Black - Preto / Pink - Rosa
+
+  Purple - Roxo / Orange - Laranja / Grey - Cinza 
+
+  Dark blue - Azul escuro / Light green - Verde claro
