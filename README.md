@@ -240,3 +240,21 @@ English language course
   Purple - Roxo / Orange - Laranja / Grey - Cinza 
 
   Dark blue - Azul escuro / Light green - Verde claro
+
+* __Articles__
+
+  A school - Uma escola / A book - Um livro
+
+  A pen - Uma caneta / A pencil - Um lápis
+
+  An airplane - Um avião / An orange - Uma laranja
+
+  An umbrella - Um guarda-chuvas / An elephant - Um elefante
+
+  An hour - Uma hora / An hotel - Um hotel
+
+  The sky - O céu / The birds - Os pássaros / The rain - A chuva
+
+  The clouds - As nuvens / The teacher - O(a) professor(a)
+
+  The doctors - Os(as) médicos(as) / The engineers - Os engenheiros
