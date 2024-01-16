@@ -258,3 +258,25 @@ English language course
   The clouds - As nuvens / The teacher - O(a) professor(a)
 
   The doctors - Os(as) médicos(as) / The engineers - Os engenheiros
+
+* __Present Simple__
+
+  I work every day - Eu trabalho todo dia
+
+  They live in my building - Eles moram no meu prédio
+
+  We play soccer - Nós jogamos futebol
+
+  I don't like soccer - Eu não gosto de futebol
+
+  We don't live here - Nós não moramos aqui
+
+  You don't have a car - Você não tem um carro
+
+  Do you like soccer? - Você gosta de futebol?
+
+  Do they live here? - Eles moram aqui?
+
+  Do we have a car? - Nós temos um carro?
+
+  Don't you like children? - Você não gosta de crianças?
