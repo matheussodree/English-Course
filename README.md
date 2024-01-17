@@ -280,3 +280,13 @@ English language course
   Do we have a car? - Nós temos um carro?
 
   Don't you like children? - Você não gosta de crianças?
+
+* __Presente Simple 2__
+
+  She works here - Ela trabalha aqui
+
+  He plays soccer - Ele joga futebol
+
+  it eats ants - Ele(indefinido) come formigas
+
+  He doesn't work here
