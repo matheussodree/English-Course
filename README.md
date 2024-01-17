@@ -287,6 +287,14 @@ English language course
 
   He plays soccer - Ele joga futebol
 
-  it eats ants - Ele(indefinido) come formigas
+  It eats ants - Ele(indefinido) come formigas
 
-  He doesn't work here
+  He doesn't work here - Ele não trabalha aqui
+
+  She doesn't play soccer - Ela não joga futebol
+
+  Does she work here? - Ela trabalha aqui?
+
+  Does she play soccer? - Ela joga futebol?
+
+  Does your father like tennis? - Seu pai gosta de tenis?
