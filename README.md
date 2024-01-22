@@ -298,3 +298,15 @@ English language course
   Does she play soccer? - Ela joga futebol?
 
   Does your father like tennis? - Seu pai gosta de tenis?
+
+* __Possessives 2__
+
+  Paul's camera - A camera do Paul
+
+  Anna's car - O carro da Anna
+
+  Jack's son - O filho do Jack
+
+  My brother's wife is pretty - A esposa do meu irmão é bonita
+
+  
