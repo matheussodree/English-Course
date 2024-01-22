@@ -259,7 +259,7 @@ English language course
 
   The doctors - Os(as) médicos(as) / The engineers - Os engenheiros
 
-* __Present Simple__
+* __Simple Present__
 
   I work every day - Eu trabalho todo dia
 
@@ -281,7 +281,7 @@ English language course
 
   Don't you like children? - Você não gosta de crianças?
 
-* __Presente Simple 2__
+* __Simple Present 2__
 
   She works here - Ela trabalha aqui
 
@@ -308,5 +308,15 @@ English language course
   Jack's son - O filho do Jack
 
   My brother's wife is pretty - A esposa do meu irmão é bonita
+
+  Your sister's friends are here - Os amigos da sua irmã estão aqui
+
+  Peter's hair is short - O cabelo do Peter é curto
+
+  Her friends' car - O carro dos amigos dela
+
+  My friends' hair are short - O cabelo dos meus amigos é curto
+
+  My parents' house is big - A casa dos meus pais é grande
 
   
