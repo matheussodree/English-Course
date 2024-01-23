@@ -333,3 +333,12 @@ English language course
 
   Peter is at his desk - Peter está na mesa dele
   
+* __Vocabulary Extension 1__
+
+  door - porta / floor - piso / wall - parede / ceiling - teto
+
+  kitchen - cozinha / bed - cama / bedroom - quarto / mirror - espelho
+
+  chair - cadeira / sofa - sofá / window - janela / shelf - prateleira
+
+  painting - quadro(pintura) / toilet seat - assento sanitário
