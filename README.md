@@ -319,4 +319,17 @@ English language course
 
   My parents' house is big - A casa dos meus pais é grande
 
+* __Preposition of time/ Place__
+
+  I wake up at 7 - Eu acordo às 7
+
+  What do you do on Sundays? - O que você faz aos domingos?
+
+  She works every day - Ela trabalha todos os dias
+
+  My bag is in the car - Minha bolsa está no carro
+
+  The book is on the table - O livro está na mesa (sobre a mesa)
+
+  Peter is at his desk - Peter está na mesa dele
   
