@@ -350,3 +350,11 @@ English language course
   drawer - gaveta / tile - azulejo / clock - relógio / table - mesa
 
   microwaven oven - forno microondas
+
+* __Animals__
+
+  dog - cachorro / cat - gato / fish - peixe / bird - pássaro
+
+  cow - vaca / pig - porco / mouse - rato / horse - cavalo
+
+  turtle - tartaruga / giraffa - girafa / snake - cobra
