@@ -342,3 +342,11 @@ English language course
   chair - cadeira / sofa - sofá / window - janela / shelf - prateleira
 
   painting - quadro(pintura) / toilet seat - assento sanitário
+
+  sink - pia / tap - torneira / garage - garagem / wardrobe - armário
+
+  washing machine - máquina lava-roupas / blender - liquidificador
+
+  drawer - gaveta / tile - azulejo / clock - relógio / table - mesa
+
+  microwaven oven - forno microondas
