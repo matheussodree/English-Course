@@ -358,3 +358,13 @@ English language course
   cow - vaca / pig - porco / mouse - rato / horse - cavalo
 
   turtle - tartaruga / giraffa - girafa / snake - cobra
+
+* __Transportation__
+
+  train - trem / plane - avião / car - carro / truck - caminhão
+
+  bicycle - bicicleta / bus - ônibus / boat - barco / ship - navio
+
+  tire - pneu / gasoline - gasolina / engine - motor / ticket - bilhete
+
+  transportation - transporte / fuel - combustível 
