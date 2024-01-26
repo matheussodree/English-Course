@@ -367,4 +367,28 @@ English language course
 
   tire - pneu / gasoline - gasolina / engine - motor / ticket - bilhete
 
-  transportation - transporte / fuel - combustível 
+  transportation - transporte / fuel - combustível
+
+* __Location__
+
+  city - cidade / house - casa / apartment - apartamento / street - rua
+
+  road - estrada / airport - aeroporto / train station - estação de trem
+
+  bridge - ponte / hotel - hotel / restaurant - restaurante / farm - fazenda
+
+  court - tribunal / school - escola / office - escritório / room - sala
+
+  town - cidade(menor que city) / university - universidade / bar - bar
+
+  club - clube(local de recreação) / park - parque / camp - acampamento
+
+  store - loja / shop - loja(normalmente especializada em um segmento)
+
+  theater - teatro / library - biblioteca / hospital - hospital
+
+  church - igreja / market - mercado / country - país / ground - solo
+
+  building - prédio / space - espaço(em ambos os sentidos) / bank - banco
+
+  location - local
