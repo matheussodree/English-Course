@@ -392,3 +392,7 @@ English language course
   building - prédio / space - espaço(em ambos os sentidos) / bank - banco
 
   location - local
+
+* __Clothing__
+
+  hat - chapéu / dress - vestido / suit - terno / skirt - saia
