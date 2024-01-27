@@ -396,3 +396,9 @@ English language course
 * __Clothing__
 
   hat - chapéu / dress - vestido / suit - terno / skirt - saia
+
+  shirt - camisa / T-shirt - camiseta / pants - calça / shoes - sapatos
+
+  tennis shoes - tênis / pocket - bolso / coat - casaco ou blusa de frio
+
+  stain - mancha / clothing - roupas ou vestuário
