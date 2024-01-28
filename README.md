@@ -410,3 +410,7 @@ English language course
   head - cabeça / heal - cura / high - alto(intensidade) / height - altura
 
   hand - mão
+
+* __Habits | Routine__
+
+  Usually - normalmente / rarely - raramente / never - nunca / always - sempre
