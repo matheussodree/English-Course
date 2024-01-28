@@ -402,3 +402,11 @@ English language course
   tennis shoes - tênis / pocket - bolso / coat - casaco ou blusa de frio
 
   stain - mancha / clothing - roupas ou vestuário
+
+* __Pronunciation of R__
+
+  red - vermelho / river - rio / right - certo ou direita / range - alcance
+
+  head - cabeça / heal - cura / high - alto(intensidade) / height - altura
+
+  hand - mão
