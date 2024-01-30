@@ -357,7 +357,13 @@ English language course
 
   cow - vaca / pig - porco / mouse - rato / horse - cavalo
 
-  turtle - tartaruga / giraffa - girafa / snake - cobra
+  turtle - tartaruga / giraffa - girafa / snake - cobra / goat - cabra
+
+  kangaroo - canguru / bear - urso / camel - camelo / sheep - ovelha
+
+  lion - leão / monkey - macaco / wolf - lobo / shark - tubarão / toad(frog) - sapo
+
+  salmon - salmão / alligator - jacaré / gecko - lagartixa
 
 * __Transportation__
 
@@ -414,3 +420,21 @@ English language course
 * __Habits | Routine__
 
   Usually - normalmente / rarely - raramente / never - nunca / always - sempre
+
+  I usually take the bus to school - Eu normalmente pego o ônibus para a escola
+
+  She rarely forgets to do her homerwork - Ela raramente esquece de fazer as lições de casa dela
+
+  He never washes the dishes - Ele nunca lava as louças
+
+  We always play soccer on sundays - Nós sempre jogamos futebol nos domingos
+
+  They don't work every day - Eles não trabalham todos os dias
+
+  Her son almost never plays with the dog - O filho dela quase nunca brinca com o cachorro
+
+  His sister always wears a hat - A irmã dele sempre veste um chapéu
+
+  Their daughter never goes to the market - A filha deles nunca vai ao mercado
+
+  
