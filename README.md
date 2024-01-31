@@ -443,4 +443,14 @@ English language course
 
   Are you usually on time for school? - Você normalmente está no horário para a escola?(Pontualidade)
 
-  What time do you wake up? - Que horas você acorda? 
+  What time do you wake up? - Que horas você acorda?
+
+  I usually wake up at 8 am - Eu normalmente acordo às 8 da manhã
+
+  What time do you go to bed? - A que horas você vai para a cama?(dormir)
+
+  I go to bed at 10 pm - Eu vou dormir às 10 da noite
+
+  Where do you have lunch? - Onde você almoça?
+
+  I have lunch at home - Eu almoço em casa
