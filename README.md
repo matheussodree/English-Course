@@ -437,4 +437,10 @@ English language course
 
   Their daughter never goes to the market - A filha deles nunca vai ao mercado
 
-  
+  That waiter usually works on tuesdays afternoons - Aquele garçom normalmente trabalha nas terças-feiras à tarde
+
+  Your manager rarely reads books and magazines - Seu gerente raramente lê livros e revistas
+
+  Are you usually on time for school? - Você normalmente está no horário para a escola?(Pontualidade)
+
+  What time do you wake up? - Que horas você acorda? 
