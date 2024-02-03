@@ -455,7 +455,7 @@ English language course
 
   I have lunch at home - Eu almoço em casa
 
-* Do | Make
+* __Do | Make__
 
   Do your homework - Faça seu dever de casa
 
@@ -480,3 +480,21 @@ English language course
   She makes cakes - Ela faz bolos
 
   I made juice - Eu fiz suco
+
+* __There__
+
+  There is a book on the table - Tem um livro sobre a mesa
+
+  There are five chairs in the room - Tem cinco cadeiras na sala
+
+  Is there a bus stop around here? - Tem um ponto de ônibus por aqui?
+
+  Are there any restaurants in the mall - Tem algum restaurante no shopping?
+
+  There isn't a pool in my house - Não tem uma piscina na minha casa
+
+  There aren't children in my neighbourhood - Não tem crianças na minha vizinhança
+
+  Isn't there a chair I can use? - Não tem uma cadeira que eu possa usar?
+
+  Aren't there trees in your city? - Não tem árvores na sua cidade?
