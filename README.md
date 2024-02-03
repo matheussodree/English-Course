@@ -454,3 +454,29 @@ English language course
   Where do you have lunch? - Onde você almoça?
 
   I have lunch at home - Eu almoço em casa
+
+* Do | Make
+
+  Do your homework - Faça seu dever de casa
+
+  He does a dangerous job - Ele faz um trabalho perigoso
+
+  I have things to do - Eu tenho coisas a fazer
+
+  I don't do anything on sundays - Eu não faço nada aos domingos
+
+  I need to do the dishes - Eu preciso lavar as louças
+
+  Help me do my hair, please - Me ajude a fazer meu cabelo por favor
+
+  Omelette is made of eggs - Omelete é feita de ovos
+
+  Wine is made from grapes - O vinho é feito das uvas
+
+  You make me happy - Você me faz feliz
+
+  Onios make you cry - Cebolas fazem você chorar
+
+  She makes cakes - Ela faz bolos
+
+  I made juice - Eu fiz suco
