@@ -498,3 +498,22 @@ English language course
   Isn't there a chair I can use? - Não tem uma cadeira que eu possa usar?
 
   Aren't there trees in your city? - Não tem árvores na sua cidade?
+
+* __Past__
+
+  I worked yesterday - Eu trabalhei ontem
+
+  She live in São Paulo for 5 years - Ela morou em São Paulo por 5 anos
+
+  They needed money to travel - Eles precisavam de dinheiro para viajar
+
+  My sister wanted to eat - Minha irmã quis comer
+
+  They danced in the party - Elas dançaram na festa
+
+  I studied this morning - Eu estudei esta manhã
+
+  I stopped working 3 months ago - Eu parei de trabalhar 3 meses atrás
+
+  I did not study yesterday - Eu não estudei ontem
+  
