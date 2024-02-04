@@ -517,3 +517,14 @@ English language course
 
   I did not study yesterday - Eu não estudei ontem
   
+  He didn't work on saturday - Ele não trabalhou no sábado
+
+  They didn't come here - Eles não vieram aqui
+
+  Did you eat cake? - Você comeu bolo?
+
+  Did they drink water? - Eles beberam água?
+
+  Didn't you go to your mother's house? - Você não foi para a casa da sua mãe?
+
+  Didn't he dance with you? - Ele não dançou com você?
