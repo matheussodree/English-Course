@@ -531,11 +531,17 @@ English language course
 
 * __Weather__
 
-It's sunny today - Hoje está ensolarado
+  It's sunny today - Hoje está ensolarado
+  
+  It's hot and humid today - Hoje está quente e úmido
+  
+  What's it like outside? - Como está lá fora
+  
+  How's the weather like? - Como está o tempo?
 
-It's hot and humid today - Hoje está quente e úmido
+  Whats the temperature? - Qual é a temperatura?
 
-What's it like outside? - Como está lá fora
+  bright - claro / sunny - ensolarado / clear - limpo(sem nuvem) / wind - vento
 
-How's the weather like? - Como está o tempo?
+  fine - bom / cloudy - nublado / snow - neve / rainy - chuvoso / rain - chuva
 
