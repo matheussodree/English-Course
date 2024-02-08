@@ -528,3 +528,14 @@ English language course
   Didn't you go to your mother's house? - Você não foi para a casa da sua mãe?
 
   Didn't he dance with you? - Ele não dançou com você?
+
+* __Weather__
+
+It's sunny today - Hoje está ensolarado
+
+It's hot and humid today - Hoje está quente e úmido
+
+What's it like outside? - Como está lá fora
+
+How's the weather like? - Como está o tempo?
+
