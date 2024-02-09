@@ -553,3 +553,8 @@ English language course
 
   Her boyfriend loves chinese food. He wants to travel to china - O namorado dela ama comida Chinesa. Ele quer viajar para a China
 
+They're fron Canada - Eles são do Canadá
+
+What's your favorite country? - Qual é o seu país favorito?
+
+My father want to go to Germany because his mother is German - Meu pai quer ir à Alemanha porque a mãe dele é alemã
