@@ -545,3 +545,11 @@ English language course
 
   fine - bom / cloudy - nublado / snow - neve / rainy - chuvoso / rain - chuva
 
+* __Nacionalities and Countries__
+
+  My friend is Japanese, he lives in japan - Meu amigo é Japonês, ele vive no japão
+
+  Her father was born in Italy. He is Italian - O pai dela nasceu na Itália. Ele é Italiano
+
+  Her boyfriend loves chinese food. He wants to travel to china - O namorado dela ama comida Chinesa. Ele quer viajar para a China
+
