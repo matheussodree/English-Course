@@ -558,3 +558,30 @@ English language course
   What's your favorite country? - Qual é o seu país favorito?
   
   My father want to go to Germany because his mother is German - Meu pai quer ir à Alemanha porque a mãe dele é alemã
+
+* __Sports__
+
+  What's your favorite sport? - Qual é seu esporte favorito?
+
+  Do you pratice any sport? - Você pratica algum esporte?
+  
+  I like to play soccer - Eu gosto de jogar futebol
+
+  I like playing tennis - Eu gosto de jogar tênis
+
+  I swim every monday - Eu nado toda segunda-feira
+
+  She does yoga - Ela faz ioga
+
+  Soccer field - Campo de futebol / Tennis court - Quadra de tênis
+
+  Swimming pool - Piscina / Coach - Treinador
+
+  Her basketball coach is very strict - O treinador de basquete dela é muito rígido
+
+  Do you enjoy watching volleyball matches? - Você gosta de ver partidas de vôlei?
+
+  He likes to play golf but doesn't like watching golf games - Ele gosta de jogar golfe mas não gosta de assistir à partidas de golfe
+
+  She is a swimming teacher - Ela é professora de natação
+  
