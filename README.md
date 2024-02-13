@@ -585,3 +585,20 @@ English language course
 
   She is a swimming teacher - Ela é professora de natação
   
+* __House__
+
+  My brother cooks in the kitchen - Meu irmão cozinha na cozinha
+
+  His mother watches TV in the bedroom - A mãe dele assiste tv no quarto
+
+  Her father keeps the car in the garage - O pai dela mantém o carro na garagem
+
+  Their sister takes showers in the bathroom - A irmã deles toma banho no banheiro
+
+  My father works in the study - Meu pai trabalha no escritório(da casa)
+
+  Do you eat in the living room while watching TV? - Você come na sala de estar enquanto assiste TV?
+
+  I don't have dinner in the dining room - Eu não janto na sala de jantar
+
+  Do you keep your old toys in the attic or in the basement? - Você guarda seus brinquedos velhos no sótão ou no porão?
