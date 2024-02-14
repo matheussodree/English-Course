@@ -602,3 +602,15 @@ English language course
   I don't have dinner in the dining room - Eu não janto na sala de jantar
 
   Do you keep your old toys in the attic or in the basement? - Você guarda seus brinquedos velhos no sótão ou no porão?
+
+* __Preposition of Place__
+
+  above - acima(sem contato) / across - atravessando(sobre) / against - contra(algo)
+
+  along - ao longo de algo / among - entre(diversos) / at - em(algum lugar)
+
+  behind - atrás / below - abaixo(sem contato) / between - entre(dois)
+
+  down - para baixo / from, to - de, para(origem, destino) / in front of - em frente de(algo)
+
+  in, inside - dentro, do lado de dentro / into - para dentro
