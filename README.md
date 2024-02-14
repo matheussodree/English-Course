@@ -613,4 +613,14 @@ English language course
 
   down - para baixo / from, to - de, para(origem, destino) / in front of - em frente de(algo)
 
-  in, inside - dentro, do lado de dentro / into - para dentro
+  in, inside - dentro, do lado de dentro / into - para dentro / near - próximo
+
+  next to, by, beside - do lado de (algo) / off - para fora / on - sob(com contato)
+
+  onto - para(cima), em(algo) / opposite - oposto(a algo) / out of - para fora
+
+  over - por cima / past - passado / round - em volta de(algo) / cercando
+
+  through - através(com contato) de(algo) / towards - em direção a(algo)
+
+  under - em baixo de(algo) / up - para cima, acima
