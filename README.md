@@ -624,3 +624,25 @@ English language course
   through - através(com contato) de(algo) / towards - em direção a(algo)
 
   under - em baixo de(algo) / up - para cima, acima
+
+* __Means of Transportation__
+
+  What type of transport is popular in your town? - Que tipo de transporte é popular em sua cidade?
+
+  how do you go to work? - Como você vai para o trabalho?
+
+  I go to work by bus - Eu vou para o trabalho de ônibus
+
+  He rides his bike every weekend - Ele pedala sua bicicleta todo final de semana
+
+  The subway is very popular in São Paulo - O metrô é muito populat em São Paulo
+
+  Do you take the bus to work? - Você pega o ônibus para o trabalho?
+
+  I never walk to school - Eu nunca ando para a escola
+
+  I usually call a cab when I go to parties - Eu normalmente chamo um táxi quando vou às festas
+
+  He doesn't like taking taxis - Ele não gosta de pegar táxis
+
+  She comes home on foot - Ela vem para casa a pé
