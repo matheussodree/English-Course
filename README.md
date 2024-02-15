@@ -646,3 +646,17 @@ English language course
   He doesn't like taking taxis - Ele não gosta de pegar táxis
 
   She comes home on foot - Ela vem para casa a pé
+
+* **Nature**
+
+  The sun is pretty hot hot today - O sol está bem quente hoje
+
+  There are many stars in the sky - Tem muitas estrelas no céu
+
+  The moon isn't so bright tonight - A lua não está tão clara esta noite
+
+  That cloud looks like a small kitten - Aquela nuvem parece um gatinho
+
+  Her uncle lives by the mountains - O tio dela mora pela montanha
+
+  Their house is by the river - A casa deles é perto do rio
