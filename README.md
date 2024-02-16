@@ -676,3 +676,21 @@ English language course
   The book is on the table - O livro está sobre a mesa
 
   The baby is under the blankets - O bebê está debaixo das cobertas
+
+* **Entertainment**
+
+  What do you do in your free time? - O que você faz nas suas horas vagas?
+
+  In my free time, I watch movies - Nas minha horas vagas eu vejo filmes
+
+  She goes to the theater because she enjoys plays - Ela vai ao teatro por que ela gosta de peças
+
+  We liste to music and enjoy going to concerts - Nós ouvimos músicas e gostamos de ir a shows
+
+  My son plays video games - Meu filho joga video-games
+
+  Her daughter likes to read novels - A filha dela gosta de ler romances
+
+  Their kids ride their bikes in the park - As deles andam com sua bicicletas no parque
+
+  My family enjoys watching sitcoms - Minha família gosta de assistir a séries(comédia)
