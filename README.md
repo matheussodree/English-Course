@@ -660,3 +660,19 @@ English language course
   Her uncle lives by the mountains - O tio dela mora pela montanha
 
   Their house is by the river - A casa deles é perto do rio
+
+* **Directions**
+
+  Look down - Olhe para baixo
+
+  Lay the cards face up - Coloque as cartas viradas para cima
+
+  Turn to your sua left - Vire para sua esquerda
+
+  The right side of the table is dirty - O lado direito da mesa está sujo
+
+  He sits in front of me - Ele senta na minha frente
+
+  The book is on the table - O livro está sobre a mesa
+
+  The baby is under the blankets - O bebê está debaixo das cobertas
