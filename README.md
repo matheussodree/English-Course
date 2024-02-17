@@ -694,3 +694,29 @@ English language course
   Their kids ride their bikes in the park - As deles andam com sua bicicletas no parque
 
   My family enjoys watching sitcoms - Minha família gosta de assistir a séries(comédia)
+
+* **To Be - Past**
+
+  I was here yesterday - Eu estava aqui ontem
+
+  They were my friends - Eles eram meus amigos
+
+  She was his girlfriend - Ela era namorada dele
+
+  There was an accident at the corner - Houve um acidente na esquina
+
+  She went home - Ele foi para casa
+
+  They went to the school - Eles foram para a escola
+
+  Was he here last week? - Ele estava aqui semana passada?
+
+  Were you sick yesterday? - Você estava doente ontem?
+
+  Was there an accident at the corner? - Houve um acidente na esquina?
+
+  They weren't at the party - Eles não estavam na festa
+
+  She wasn't my teacher - Ela não era minha professora
+
+  Where were you yesterday? - Onde você estava ontem?
