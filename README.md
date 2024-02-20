@@ -720,3 +720,25 @@ English language course
   She wasn't my teacher - Ela não era minha professora
 
   Where were you yesterday? - Onde você estava ontem?
+
+* __Going to__
+
+  I'm going to buy bread after school - Eu vou comprar pão depois da escola
+
+  She is going to watch tv tonight - Ela vai ver TV de noite
+
+  My friends are not going to study for the test - Meus amigos não vão estudar para a prova
+
+  I'm not going to join you at lunch today - Eu não vou me juntar com vocês no almoço hoje
+
+  Are you going to clean your house? - Você vai limpar sua casa?
+
+  Is she going to play with you? - Ela vai brincar com você?
+
+  Am I going to need to bring my ID? - Vou precisar trazer meu RG?
+
+  Isn't she going to help you with that? - Ela não vai te ajudar com isso?
+
+  Aren't you going to travel to Mexico? - Você não vai viajar para o México?
+
+  What are you going to do this weekend? - O que você vai fazer neste final de semana?
