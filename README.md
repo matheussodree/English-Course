@@ -742,3 +742,35 @@ English language course
   Aren't you going to travel to Mexico? - Você não vai viajar para o México?
 
   What are you going to do this weekend? - O que você vai fazer neste final de semana?
+
+* __Interacting__
+
+  What kind of music do you like? - Que tipo de música você gosta?
+
+  I like pop music - Eu gosto de música pop
+
+  What kind of movies do you like? - Que tipo de filmes você gosta?
+
+  I like horror - Eu gosto de terror
+
+  Do you like comedy movies? - Você gosta de filmes de comédia?
+
+  This action movie is terrific! - Este filme de ação é fantástico
+
+  I usually cry in romcoms - Costumo chorar em comédias românticas
+
+  Documentaries are great to improve your general knowledge - Os documentários são ótimos para melhorar seus conhecimentos gerais
+
+  Sure! - Claro
+
+  How about having some burguer? - Que tal comer um hamburguer?
+
+  How about watching a movie? - Que tal ver um filme?
+
+  How about grabbing a beer later? - Que tal tomar uma cerveja mais tarde?
+
+  What kind of food do they have there? - Que tipo de comida eles tem lá?
+
+  What kind of movie Terminator is? - Que tipo de filme é o Exterminador do Futuro?
+
+  I'm planning to go to a Guns'n Roses concert.Would you like to go with me? - Estou planejando ir a um show do Guns'n Roses.Você gostaria de ir comigo?
