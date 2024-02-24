@@ -774,3 +774,23 @@ English language course
   What kind of movie Terminator is? - Que tipo de filme é o Exterminador do Futuro?
 
   I'm planning to go to a Guns'n Roses concert.Would you like to go with me? - Estou planejando ir a um show do Guns'n Roses.Você gostaria de ir comigo?
+
+* __Interacting__
+
+  Let's buy a dog! - Vamos comprar um cachorro!
+
+  I don't like dogs very much. We could get a cat or a bird. - Eu não gosto muito de cachorro. Nós poderíamos pegar um gato ou um pássaro
+
+  Would you like to go to a party tonight? - Você gostaria de ir a uma festa esta noite?
+
+  Sorry, I can't. How about we do something on the weekend? - Desculpe, eu não posso. Que tal nós fazermos alguma coisa no final de semana?
+
+  I have to study for a test - Eu preciso estudar para uma prova
+
+  What did you get for your birthday? - O que você ganhou no seu aniversário?
+
+  This room gets very little sunshine - Esta sala recebe bem pouco sol
+
+  Take this to the bank for me please - Leve isto ao banco para mim, por favor
+
+  I forgot to take my wallet to work - Esqueci de levar minha carteira para o trabalho
