@@ -794,3 +794,25 @@ English language course
   Take this to the bank for me please - Leve isto ao banco para mim, por favor
 
   I forgot to take my wallet to work - Esqueci de levar minha carteira para o trabalho
+
+* __Modal Verbs__
+
+  I can swim - Eu consigo nadar
+
+  She can't speak Chinese - Ela não sabe falar Chinês
+
+  Can you ride a bike? - Você consegue andar de bicicleta?
+
+  My school isn't far. I can walk - Minha escola não é longe. Eu posso andar
+
+  The letters are too small. I can't read - As letras são muito pequenas. Eu não consigo ler
+
+  To feel - Sentir / To hear - Ouvir / to see - ver / to smell - cheirar
+
+  to taste - saborear / I can hear music - Eu posso ouvir música
+
+  Can you help me? - Você pode me ajudar?
+
+  She can't understand this kind of thing - Ela não consegue entender este tipo de coisa
+
+  We cannot wear jeans at work - Nós não podemos vestir jeans no trabalho
