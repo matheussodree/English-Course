@@ -816,3 +816,31 @@ English language course
   She can't understand this kind of thing - Ela não consegue entender este tipo de coisa
 
   We cannot wear jeans at work - Nós não podemos vestir jeans no trabalho
+
+* __Present Continuos__
+
+  I'm working now - Estou trabalhando agora
+
+  Why are you wearing a hat? - Por que você está vestindo um chapéu
+
+  What are you doing? - O que você está fazendo?
+
+  Is she studying now? - Ela está estudando agora?
+
+  They're not watching TV - Eles não estão vendo TV
+
+  Is it raining? - Está chovendo?
+
+  I was working - Eu estava trabalhando
+
+  Why were you wearing a hat? - Por que você estava vestindo um chapéu
+
+  What were you doing? - O que você estava fazendo?
+
+  Was she studying? - Ela estava estudando?
+
+  They weren't watching TV - Eles não estavam assistindo TV
+
+  Was it raining? - Estava chovendo?
+
+  
