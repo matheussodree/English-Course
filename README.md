@@ -843,4 +843,10 @@ English language course
 
   Was it raining? - Estava chovendo?
 
-  
+* __Holydays__
+
+  Where are you going to spend new year's day? - Onde você vai passar o ano novo?
+
+  What are you going to give your girlfriend for Valentine's day? - O que você vai dar para sua namorada de dia dos namorados?
+
+  Saint Ptarick's day is Ireland's most famous holyday - O dia de São Patrício é o feriado mais famoso na Irlanda
