@@ -850,3 +850,21 @@ English language course
   What are you going to give your girlfriend for Valentine's day? - O que você vai dar para sua namorada de dia dos namorados?
 
   Saint Ptarick's day is Ireland's most famous holyday - O dia de São Patrício é o feriado mais famoso na Irlanda
+
+  In Brazil, people eat a lot of chocolate during Easter - No Brasil, as pessoas comem um monte de chocolate durante a Páscoa
+
+  I hate April fool's day - Eu odeio o dia da mentira
+
+  My mother is coming for Mother's day - Minha mãe está vindo para o dia das mães
+
+  I usually don't celebrate Father's day - Eu normalmente não comemoro o dia dos pais
+
+  Independence day is major in the US - O dia da independência é muito importante nos Estados Unidos
+
+  In Brazil, labor's day is celebrated on may 1 st. - No Brasil, o dia do trabalho é celebrado em primeiro de maio
+
+  Durion Halloween, children wear costumes - No dia das bruxas, as crianças vestem fantasias
+
+  I spent thanksgivin with my family - Eu passei o dia de ação de graças com minha família
+
+  I don't buy presents on Christmas - Eu não compro presentes no Natal
