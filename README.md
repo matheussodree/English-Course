@@ -868,3 +868,29 @@ English language course
   I spent thanksgivin with my family - Eu passei o dia de ação de graças com minha família
 
   I don't buy presents on Christmas - Eu não compro presentes no Natal
+
+* __Personal characteristics__
+
+  My cousin isn't so smart - Meu primo não é tão inteligente
+
+  Her nephews are very clever - Os sobrinhos dela são muito espertos
+
+  Their niece was not funny - A sobrinha deles não era engraçada
+
+  His brothers were very serious when I first met them - Os irmãos dele estavam muito sérios a primeira vez que os encontrei
+
+  My grandfather is good humored - Meu avô é bem humorado
+
+  That bus driver is always in a good mood - Aquele motorista de ônibus está sempre de bom humor
+
+  You need to stay calm during a robbery - Você precisa permanecer calmo durante um assalto
+
+  Are you an introvert or an extrovert? - Você é introvertido ou extrovertido?
+
+  Her grandma isn't shy at all - A avó dela não é nem um pouco tímida
+
+  Our aunt and uncle are very outgoing - Nossa tia e tio são muito desinibidos
+
+  Their grandpa wasn't an optimist - O avô deles não era otimista
+
+  My mother in law is a pessimist - Minha sogra é pessimista
