@@ -896,3 +896,31 @@ English language course
   My mother in law is a pessimist - Minha sogra é pessimista
 
   * __In the House Verbs__
+
+    My wife is cleaning the house
+
+    I don't like to cut the grass
+
+    His mother in law likes doing the dishes
+
+    His mother in law likes doing the laundry
+
+    Tom never dust his room
+
+    They feed their dog twice a day
+
+    I always fold my laundry
+
+    Their father wants to paint the house
+
+    My brother was raking the leaves
+
+    My wife wants me to sweep the floor
+
+    I am going to take out the trash tomorrow morning
+
+    He vacuumed his room last week
+
+    My father walks the dog every single day
+
+    Lisa is watering the plants
