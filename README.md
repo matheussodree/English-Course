@@ -895,7 +895,7 @@ English language course
 
   My mother in law is a pessimist - Minha sogra é pessimista
 
-  * __In the House Verbs__
+* __In the House Verbs__
 
     My wife is cleaning the house
 
