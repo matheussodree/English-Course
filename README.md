@@ -909,18 +909,18 @@ English language course
 
     They feed their dog twice a day - Eles alimentam os cachorros 2 vezes por dia
 
-    I always fold my laundry
+    I always fold my laundry - Eu sempre dobro minhas roupas
 
-    Their father wants to paint the house
+    Their father wants to paint the house - O pai deles quer pintar a casa
 
-    My brother was raking the leaves
+    My brother was raking the leaves - Meu irmão estava rastelando as folhas
 
-    My wife wants me to sweep the floor
+    My wife wants me to sweep the floor - Minha esposa quer que eu varra o chão
 
-    I am going to take out the trash tomorrow morning
+    I am going to take out the trash tomorrow morning - Eu vou levar o lixo para fora amanhã de manhã
 
-    He vacuumed his room last week
+    He vacuumed his room last week - Ele aspirou o quarto dele semana passada
+ 
+    My father walks the dog every single day - Meu pai leva o cachorro para passar todo santo dia
 
-    My father walks the dog every single day
-
-    Lisa is watering the plants
+    Lisa is watering the plants - Lisa está regando as plantas
