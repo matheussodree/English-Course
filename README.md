@@ -897,17 +897,17 @@ English language course
 
 * __In the House Verbs__
 
-    My wife is cleaning the house
+    My wife is cleaning the house - Minha esposa está limpando a casa
 
-    I don't like to cut the grass
+    I don't like to cut the grass - Eu não gosto de cortar a grama
 
-    His mother in law likes doing the dishes
+    His mother in law likes doing the dishes - A sogra dele gosta de lavar louças
 
-    His mother in law likes doing the laundry
+    His mother in law likes doing the laundry - A sogra dele gosta de lavar roupa
 
-    Tom never dust his room
+    Tom never dust his room - Tom nunca tira o pó do quarto dele
 
-    They feed their dog twice a day
+    They feed their dog twice a day - Eles alimentam os cachorros 2 vezes por dia
 
     I always fold my laundry
 
