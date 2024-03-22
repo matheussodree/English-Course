@@ -924,3 +924,26 @@ English language course
     My father walks the dog every single day - Meu pai leva o cachorro para passar todo santo dia
 
     Lisa is watering the plants - Lisa está regando as plantas
+
+* __Phrasal Verbs 1__
+
+  I need to throw away some of my old toys - Eu preciso jogar fora alguns dos meus brinquedos velhos
+
+  Tom, can you please pick up your clothes? - Tom, você pode pegar suas roupas, por favor?
+
+  I am going to hang up my coat - Eu vou pendurar o meu casaco
+
+  I want to tidy up my room - Eu quero arrumar meu quarto
+
+  They told me top mop the floor - Eles me disseram para esfregar o chão
+
+  Can you please turn on the lights? - Você pode ligar as luzes para mim por favor?
+
+  Can you please turn the lights off? - Você pode desligar a luz para mim por favor?
+
+  I'm going to put some clothes on - Eu vou colocar algumas roupas
+
+  She put on some music for us - Ela colocou um pouco de música para nós
+
+  Look! The house is on fire we need to put it out! - Olhe! A casa está pegando fogo, precisamos apagar!
+  
