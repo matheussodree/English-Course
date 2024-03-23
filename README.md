@@ -984,3 +984,21 @@ English language course
   The subway is past the traffic lights - O metrô é passando o semáforo
 
   My school is right around the corner - Minha escola está logo ali na esquina
+
+* __Get__
+
+  My sister got fat - Minha irmã engordou
+
+  During the winter, it gets dark really early - Durante o inverno escurece muito cedo
+
+  It's getting late, let's go home - Está ficando tarde, vamos para casa
+
+  They got excited with the news - Eles ficaram animados com as noticías
+
+  She got poor after loosing all her money gambling - Ela ficou pobre depois de perder todo dinheiro dela jogando
+
+  He got to try out their new game - Ele testou o novo jogo deles
+
+  It's not fair" I never get to go first - Não é justo! Eu nunca vou primeiro
+
+  I usually get to keep the equipment I test - Eu normalmente posso ficar com o equipamento que eu testo
