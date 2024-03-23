@@ -947,3 +947,40 @@ English language course
 
   Look! The house is on fire we need to put it out! - Olhe! A casa está pegando fogo, precisamos apagar!
   
+* __Directions 2__
+
+  How do I get to the bus station? - Como eu chego na rodoviária?
+
+  What's the best way to the post office? - Qual é o melhor caminho para o correio?
+
+  I'm looking for this address - Estou procurando por este endereço
+
+  It's this way - É por aqui / It's that way - É para lá
+
+  How far is the library? - Quão longe é a biblioteca?
+
+  How far is it to the bakery store? - Quão longe é para a padaria?
+
+  Go straight ahead - Siga em frente
+
+  Take the first left - Pegue a primeira esquerda
+
+  Take the second right - Pegue a segunda direita
+
+  Turn left into Waine street - Vire a esquerda into Waine street
+
+  Cross the Robin bridge  - Atravesse a ponte Robin
+
+  The night club is next to the police station - A casa noturna é próxima da delegacia
+
+  The bank is in front of the gas station - O banco é na frente do posto de combustível
+
+  It's right across the street - É do outro lado da rua
+
+  It's right across from the drugstore - É bem na frente da farmácia(lado oposto da rua)
+
+  The prefecture is five blocks from here - A prefeitura é a 5 quarteirões daqui
+
+  The subway is past the traffic lights - O metrô é passando o semáforo
+
+  My school is right around the corner - Minha escola está logo ali na esquina
