@@ -1017,4 +1017,12 @@ English language course
 
   He gave me a ride to work
 
-  Do you ever hitchhike? 
+  Do you ever hitchhike?
+
+  The subway is the most convenient means of transportation
+
+  I thought motorcycles were very dangerous
+
+  Never stop on the railway
+
+  I hate driving on highways
