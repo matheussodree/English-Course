@@ -999,6 +999,22 @@ English language course
 
   He got to try out their new game - Ele testou o novo jogo deles
 
-  It's not fair" I never get to go first - Não é justo! Eu nunca vou primeiro
+  It's not fair! I never get to go first - Não é justo! Eu nunca vou primeiro
 
   I usually get to keep the equipment I test - Eu normalmente posso ficar com o equipamento que eu testo
+
+* __Transport__
+  
+  I'm going to the airport. I need to take a plane in couple of hours
+
+  They're very rich. They have their own helicopter
+
+  My family loves traveling by ship
+
+  Can you drive me to the train station?
+
+  How often do you ride your bicycle?
+
+  He gave me a ride to work
+
+  Do you ever hitchhike? 
