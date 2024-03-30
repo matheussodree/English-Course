@@ -1005,13 +1005,13 @@ English language course
 
 * __Transport__
   
-  I'm going to the airport. I need to take a plane in couple of hours
+  I'm going to the airport. I need to take a plane in couple of hours - Estou indo para o aeroporto. Tenho que pegar um avião em algumas horas
 
-  They're very rich. They have their own helicopter
+  They're very rich. They have their own helicopter - Eles são muito ricos. Eles tem o próprio helicóptero
 
-  My family loves traveling by ship
+  My family loves traveling by ship - Minha família ama viajar de navio
 
-  Can you drive me to the train station?
+  Can you drive me to the train station? - Você pode me levar à estação de trem?
 
   How often do you ride your bicycle?
 
