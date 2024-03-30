@@ -1013,16 +1013,16 @@ English language course
 
   Can you drive me to the train station? - Você pode me levar à estação de trem?
 
-  How often do you ride your bicycle?
+  How often do you ride your bicycle? - Quão frequente você anda com sua bicicleta?
 
-  He gave me a ride to work
+  He gave me a ride to work - Ele me deu uma carona para o trabalho
 
-  Do you ever hitchhike?
+  Do you ever hitchhike? - Você já pediu carona?
 
-  The subway is the most convenient means of transportation
+  The subway is the most convenient means of transportation - O metrô é o mais conveniente meio de transporte
 
-  I thought motorcycles were very dangerous
+  I thought motorcycles were very dangerous - Eu achava que motos eram muito perigosas
 
-  Never stop on the railway
+  Never stop on the railway - Nunca pare sobre os trilhos do trem
 
-  I hate driving on highways
+  I hate driving on highways - Eu odeio dirigir em estradas
