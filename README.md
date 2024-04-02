@@ -1026,3 +1026,29 @@ English language course
   Never stop on the railway - Nunca pare sobre os trilhos do trem
 
   I hate driving on highways - Eu odeio dirigir em estradas
+
+* __While - During - Since__
+
+  My mom can't stop talking during movies
+
+  Everyone was silent during lunch
+
+  My sister listens to music while she is studying
+
+  They arrived while we were watching tv
+
+  We lived in China for five years
+
+  We waited for 30 minutes outside your house
+
+  I watched this movie five days ago
+
+  Jesus Christ was born 2017 years ago
+
+  A long time ago slavey was legal
+
+  Not so long ago, people didn't believe in online courses
+
+  That was five year ago. I've changed jobs since then
+
+  Since when did he ever listen to me?
