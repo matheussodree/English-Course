@@ -1029,26 +1029,26 @@ English language course
 
 * __While - During - Since__
 
-  My mom can't stop talking during movies
+  My mom can't stop talking during movies - Minha mãe não consegue parar de falar durante os filmes
 
-  Everyone was silent during lunch
+  Everyone was silent during lunch - Todo mundo estava em silêncio durante o almoço
 
-  My sister listens to music while she is studying
+  My sister listens to music while she is studying - Minha irmã ouve música enquanto ela está estudando
 
-  They arrived while we were watching tv
+  They arrived while we were watching tv - Eles chegaram enquanto estavámos assistindo TV
 
-  We lived in China for five years
+  We lived in China for five years - Nós vivemos na China por 5 anos
 
-  We waited for 30 minutes outside your house
+  We waited for 30 minutes outside your house - Nós aguardamos por 30 minutos do lado de fora da sua casa
 
-  I watched this movie five days ago
+  I watched this movie five days ago - Eu assisti este filme cinco dias atrás
 
-  Jesus Christ was born 2017 years ago
+  Jesus Christ was born 2017 years ago - Jesus Cristo nasceu 2017 anos atrás
 
-  A long time ago slavey was legal
+  A long time ago slavey was legal - Há muito tempo atrás, as escravidão era legal
 
-  Not so long ago, people didn't believe in online courses
+  Not so long ago, people didn't believe in online courses - Até pouco tempo atrás, as pessoas não acreditavam em cursos online
 
-  That was five year ago. I've changed jobs since then
+  That was five year ago. I've changed jobs since then - Isto foi 5 anos atrás. Eu mudei de emprego desde então
 
-  Since when did he ever listen to me?
+  Since when did he ever listen to me? - Desde quando ele me ouve?
